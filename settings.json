@@ -1,0 +1,35 @@
+{
+    "files.autoSave": "onFocusChange",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 1,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.guides.bracketPairs": "active",
+    "editor.smoothScrolling": true,
+    "editor.fontSize": 15,
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.lineHeight": 18,
+    "security.workspace.trust.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Material Theme Ocean",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+          {
+            "scope": ["comment"],
+            "settings": {
+              "fontStyle": "italic",
+              "foreground": "#ffff35" // change color only for the comment text
+            }
+          }
+          
+        ]
+      },
+}
